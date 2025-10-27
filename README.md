@@ -59,7 +59,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,discord,powerbi,github,mysql,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,discord,powerbi,excel,github,mysql,sqlite&perline=14" />
   </a>
 </p>
 
