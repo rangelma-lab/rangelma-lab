@@ -23,7 +23,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, SQL, Power bi**
 
-- 🌱 I’m currently learning **design dashboards to showcase critical data and insights.**
+- 🌱 I’m currently learning **to design dashboards to showcase critical data and insights.**
 
 - ☁️ I've keen interest in data science. So,I'm learning **to clean and prepare datasets, to identify meaningful patterns and insights**
 
