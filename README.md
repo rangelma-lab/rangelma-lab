@@ -10,11 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <!--h2 without bottom border-->
@@ -28,7 +23,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, SQL, Power bi**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **design dashboards to showcase critical data and insights.**
 
 - ☁️ I've keen interest in data science. So,I'm learning **to clean and prepare datasets, to identify meaningful patterns and insights**
 
